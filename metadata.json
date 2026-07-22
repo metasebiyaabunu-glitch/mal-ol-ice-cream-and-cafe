@@ -1,0 +1,6 @@
+{
+  "name": "ማልኦ (Mal-o) Ice Cream & Cafe",
+  "description": "Interactive 3D experience for ማልኦ Ice Cream & Cafe in Arba Minch, Ethiopia. Features 3D ice cream customization, local flavors, menu, board game lounge, and authentic customer reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
